@@ -12,5 +12,4 @@ Endricfr/Endricfr is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-https://x.com/EndricFranz/status/1798460323030286680?t=TrANnHTWSfSPUPO_rH_l0w&s=19
 
